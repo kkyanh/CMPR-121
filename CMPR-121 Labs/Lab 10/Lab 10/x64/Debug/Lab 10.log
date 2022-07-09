@@ -1,0 +1,4 @@
+﻿  Book.cpp
+D:\Coding\Projects\CMPR-121 Labs\Lab 10\Lab 10\Book.cpp(277,1): error C2255: 'friend': not allowed outside of a class definition
+  Source.cpp
+  Generating Code...

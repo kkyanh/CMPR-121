@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\Coding\Projects\CMPR-121 Labs\Lab 11\Lab 11\Source.cpp(36,15): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Coding\Projects\CMPR-121 Labs\Lab 11\Lab 11\Source.cpp(15): message : see reference to function template instantiation 'float calcArea<int>(T,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  Lab 11.vcxproj -> D:\Coding\Projects\CMPR-121 Labs\Lab 11\x64\Debug\Lab 11.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Coding\Projects\CMPR-121 Lectures\Lecture 5-1 Enums\Lecture 5-1 Enums\Source.cpp(10,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lecture 5-1 Enums.vcxproj -> D:\Coding\Projects\CMPR-121 Lectures\Lecture 5-1 Enums\x64\Debug\Lecture 5-1 Enums.exe

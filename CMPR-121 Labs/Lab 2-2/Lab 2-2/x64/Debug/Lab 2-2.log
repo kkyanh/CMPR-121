@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Coding\Projects\CMPR-121 Labs\Lab 2-2\Lab 2-2\Source.cpp(48,34): error C2664: 'errno_t strcpy_s(char *,rsize_t,const char *)': cannot convert argument 2 from 'char *' to 'rsize_t'
+D:\Coding\Projects\CMPR-121 Labs\Lab 2-2\Lab 2-2\Source.cpp(48,21): message : There is no context in which this conversion is possible
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(32,30): message : see declaration of 'strcpy_s'
+D:\Coding\Projects\CMPR-121 Labs\Lab 2-2\Lab 2-2\Source.cpp(49,24): error C2660: 'strcat_s': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(39,30): message : see declaration of 'strcat_s'
+D:\Coding\Projects\CMPR-121 Labs\Lab 2-2\Lab 2-2\Source.cpp(50,29): error C2660: 'strcat_s': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(39,30): message : see declaration of 'strcat_s'
