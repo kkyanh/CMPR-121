@@ -1,8 +1,0 @@
-﻿  Source.cpp
-D:\Coding\Projects\CMPR-121 Lectures\Lecture 11-1 Vectors\Lecture 11-1 Vectors\Source.cpp(9,55): error C2143: syntax error: missing ';' before ')'
-D:\Coding\Projects\CMPR-121 Lectures\Lecture 11-1 Vectors\Lecture 11-1 Vectors\Source.cpp(9,55): error C2451: a conditional expression of type 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>' is not valid
-          with
-          [
-              _Ty=int
-          ]
-D:\Coding\Projects\CMPR-121 Lectures\Lecture 11-1 Vectors\Lecture 11-1 Vectors\Source.cpp(9,53): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called

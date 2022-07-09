@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\Coding\Projects\CMPR-121 Labs\Lab 2-2\Lab 2-2\Source.cpp(48,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Coding\Projects\CMPR-121 Labs\Lab 2-2\Lab 2-2\Source.cpp(49,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Coding\Projects\CMPR-121 Labs\Lab 2-2\Lab 2-2\Source.cpp(50,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

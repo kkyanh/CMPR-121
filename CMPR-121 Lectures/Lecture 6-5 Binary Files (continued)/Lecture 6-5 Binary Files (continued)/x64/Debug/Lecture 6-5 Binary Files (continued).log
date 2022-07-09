@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\Coding\Projects\CMPR-121 Lectures\Lecture 6-5 Binary Files (continued)\Lecture 6-5 Binary Files (continued)\Source.cpp(5,37): warning C4305: 'initializing': truncation from 'double' to 'float'
-D:\Coding\Projects\CMPR-121 Lectures\Lecture 6-5 Binary Files (continued)\Lecture 6-5 Binary Files (continued)\Source.cpp(7,39): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Lecture 6-5 Binary Files (continued).vcxproj -> D:\Coding\Projects\CMPR-121 Lectures\Lecture 6-5 Binary Files (continued)\x64\Debug\Lecture 6-5 Binary Files (continued).exe
